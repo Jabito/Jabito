@@ -52,7 +52,6 @@ Systems engineer who went from **competitive Starcraft 2** (Team Captain @ Mines
 **Data & Streaming**
 
 ![Kafka](https://img.shields.io/badge/Kafka-0a0f1a?style=flat-square&logo=apachekafka&logoColor=00f5ff)
-![Debezium](https://img.shields.io/badge/Debezium-0a0f1a?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=00f5ff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0f1a?style=flat-square&logo=postgresql&logoColor=00f5ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0f1a?style=flat-square&logo=mongodb&logoColor=00f5ff)
 ![Redis](https://img.shields.io/badge/Redis-0a0f1a?style=flat-square&logo=redis&logoColor=00f5ff)
