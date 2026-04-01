@@ -133,19 +133,6 @@ Interactive drag-and-drop tool for diagnosing bottlenecks in distributed systems
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jabito&show_icons=true&theme=tokyonight&bg_color=0a0f1a&title_color=00f5ff&icon_color=00f5ff&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabito&layout=compact&theme=tokyonight&bg_color=0a0f1a&title_color=00f5ff&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Top Languages" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabito&theme=tokyonight&background=0a0f1a&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=94a3b8&dates=475569&border=1e293b" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
 
 **[arkynate.com](https://arkynate.com)** · **[Bottlenecker](https://bottlenecker.arkynate.com)** · **[Arkynate Games](https://games.arkynate.com)** · **[LinkedIn](https://linkedin.com/in/jabito)**
